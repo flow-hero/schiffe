@@ -18,3 +18,6 @@ Ein Programm mit welchem es möglich ist Schiffe Versenken zu spielen.<br />
 
 <h2>Designentscheidungen:</h2>
 <br /> <a href="https://github.com/fri-sel/schiffe/wiki/Designentscheidungen"> Wen es interessiert kann hier die Designentscheidungen zu unserem Schiffe Versenken finden.</a> <br />
+
+
+schon dumm 
